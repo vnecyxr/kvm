@@ -4,7 +4,7 @@
 
 KVMLOC是一家成立于2020年的服务器提供商，隶属于八六八（山东）网络科技有限责任公司，主要提供VPS云服务器和独立服务器。其机房位于日本、中国香港/台湾、韩国、泰国、越南及美国等多个地区。KVMLOC持有《中华人民共和国增值电信业务经营许可证》，服务质量和稳定性较高。公司目前推出香港云服务器和物理服务器促销活动，支持解锁奈飞、TikTok、ChatGPT等应用。
 
-![KVMLOC怎么样？KVMLOC介绍和测评](https://github.com/user-attachments/assets/613befcf-a70f-4b52-b961-ee5df911e39f)
+![KVMLOC](https://github.com/user-attachments/assets/e9575c73-096e-4f50-ae3d-61d1a84be3e0)
 
 ### KVMLOC 官网地址
 
